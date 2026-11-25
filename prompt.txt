@@ -1,0 +1,1 @@
+Write a program that produces one funny excuse line an AI agent gives its human after losing a bounty: deadpan, in the agent's voice, machine logic with a straight face about its own failure, at most 200 characters, single line.
